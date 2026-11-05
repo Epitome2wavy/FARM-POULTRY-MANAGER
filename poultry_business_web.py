@@ -5,7 +5,7 @@ from supabase import create_client, Client
 
 st.set_page_config(page_title="Poultry Business Manager", page_icon="🐔", layout="wide")
 
-st.title("🐔 Poultry Business Manager")
+st.title("🐔 Poultry Business Manager By Ethan Mupfiga")
 st.caption("Keep your poultry records organised and accessible from your browser.")
 
 # Add these values in Streamlit's Secrets settings when deploying.
